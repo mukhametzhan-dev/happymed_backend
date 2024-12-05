@@ -1,0 +1,10 @@
+Flask==3.0.3
+Flask-Cors==5.0.0
+Flask-Mail==0.10.0
+Flask-Migrate==4.0.7
+Flask-MySQLdb==2.0.0
+Flask-SQLAlchemy==3.1.1
+itsdangerous==2.2.0
+Jinja2==3.1.4
+SQLAlchemy==2.0.36
+requests==2.32.3
